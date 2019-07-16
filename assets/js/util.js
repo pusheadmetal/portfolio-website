@@ -66,13 +66,13 @@
 			config = $.extend({
 
 				// Delay.
-					delay: 0,
+					delay: 0, 
 
 				// Hide panel on link click.
-					hideOnClick: false,
+					hideOnClick: false, 
 
 				// Hide panel on escape keypress.
-					hideOnEscape: false,
+					hideOnEscape: false, 
 
 				// Hide panel on swipe.
 					hideOnSwipe: false,
@@ -84,7 +84,7 @@
 					resetForms: false,
 
 				// Side of viewport the panel will appear.
-					side: null,
+					side: null, 
 
 				// Target element for "class".
 					target: $this,
